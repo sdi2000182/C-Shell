@@ -11,10 +11,6 @@
   - [Alias Management](#alias-management)
   - [Signal Handling](#signal-handling)
   - [Command History](#command-history)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
